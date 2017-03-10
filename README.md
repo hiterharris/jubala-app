@@ -32,3 +32,7 @@ Local, community oriented, charitable, dedicated to serving and building the loc
 
 # Objective
 Design a mobile application that allows customers to place to-go orders from their phone that will be ready and waiting for them when they arrive to the shop locations
+# jubala-app
+# jubala-app
+# jubala-app
+# jubala-app
